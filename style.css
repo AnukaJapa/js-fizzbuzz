@@ -14,7 +14,7 @@
 .box {
     width:100px;
     height:100px;
-    background-color:rgb(240, 145, 145) ;
+    background-color:rgb(240, 145, 145);
     border:inset rgb(212, 120, 120) 3px;
     margin:6px;
 }
